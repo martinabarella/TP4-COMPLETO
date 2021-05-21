@@ -378,7 +378,7 @@ namespace TP4
 
             if (Dias >= DiasASimular || Vista > DiasASimular)
             {
-                MessageBox.Show("Por favor, ingrese parámetros válids");
+                MessageBox.Show("Por favor, ingrese parámetros válidos");
                 //txtDiasASimular.Text = "";
                 //txtDiasAVisualizar.Text = "";
                 //txtVista.Text = "";
